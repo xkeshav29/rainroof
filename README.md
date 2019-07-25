@@ -41,6 +41,7 @@ While initially launching only in the cities of  [Hyderabad]([https://en.wikiped
 <p>
 	All major cities in India are facing acute shortage of water with Chennai being the worst this year. According to a report by NITI Aayog, 21 cities in India including Delhi, Bengaluru, Chennai and Hyderabad will run out of groundwater by 2020. This will affect around 100 million people. Government in all the states and center are working and making policies for the same with latest being GoI forming total new ministry for this Jal Shakti.
 <br>
+<br>
 In spite of almost all states in India having some rain water harvesting rules and policies, hardly anyone is actually followed and we see critically low adoption. We see a clear need of a ,not present so far, platform which could precisely provide information to start, stat about water conservation potential in one's house and steps to adopt it.
 </p>
 </p>
@@ -86,7 +87,9 @@ In spite of almost all states in India having some rain water harvesting rules a
 <p>
 You just have to go to the portal which is under development and give your address on Google maps. You have to point out your roof and give how many family members you are and what is your average daily usage. Based on that information portal will give you best estimated on how much water and hence money can be saved.
 <br>
+<br>
 We are looking for support in terms of financial and social and governmental outreach for its public adoption. Any support in terms of connecting to potential social enterprises who can value such initiative will be very helpful.
+<br>
 <br>
 Project is under development and screenshots are representation of actual portal. For any question team can be reached at chandradeoaryaarya@gmail.com
 </p>
