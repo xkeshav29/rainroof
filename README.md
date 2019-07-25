@@ -41,7 +41,7 @@ While initially launching only in the cities of  [Hyderabad]([https://en.wikiped
 <p>
 	All major cities in India are facing acute shortage of water with Chennai being the worst this year. According to a report by NITI Aayog, 21 cities in India including Delhi, Bengaluru, Chennai and Hyderabad will run out of groundwater by 2020. This will affect around 100 million people. Government in all the states and center are working and making policies for the same with latest being GoI forming total new ministry for this Jal Shakti.
 <br>
-In spite of almost all states in India having some rain water harvesting rules and policies, hardly anyone is actually followed. But as the awareness increases people are ready to adopt water saving methodologies.
+In spite of almost all states in India having some rain water harvesting rules and policies, hardly anyone is actually followed and we see critically low adoption. We see a clear need of a ,not present so far, platform which could precisely provide information to start, stat about water conservation potential in one's house and steps to adopt it.
 </p>
 </p>
 
@@ -54,12 +54,12 @@ In spite of almost all states in India having some rain water harvesting rules a
 		src="https://4.imimg.com/data4/RM/UJ/MY-3427399/eco-rain-500x500.png">
 		<br>
 <p>
-	Rain water harvesting is the simple technique of saving rain water which can be either immediately used or sent to ground water. There is huge knowledge gap and know-how on starting rain water harvesting and its potentials. Our projects intends to answer three problems that a normal person faces if starting rain water harvesting. 
+	Rain water harvesting is the simple technique of saving rain water which can be either immediately used or sent to ground water. We are developing a web based application where anyone could find their house, check exact water harvesting potential and connect to government certified technicians and vendors to start RWH in their house. Our projects intends to answer three problems that a normal person faces if starting rain water harvesting. 
 <br>
 
 1. What is RWH - one stop complete information about rain water harvesting.<br>
-2. How much water can you save - Using Google earth data we capture your rooftop area precisely and using historical monsoon and rainfall data we estimate how much water can you save for your family. <br>
-3. How to start - Complete DIY procedure of rain water harvesting or connecting you to local government authorised rain water harvesting experts from ministry of water.
+2. How much water can you save - Using Google earth data we capture your rooftop area precisely and using historical monsoon and rainfall data we estimate how much water can you save for your family and hence money. <br>
+3. How to start - Complete DIY procedure of rain water harvesting or connecting you to local government authorized rain water harvesting experts from ministry of water.
 </p>
 </p>
 
@@ -84,7 +84,9 @@ In spite of almost all states in India having some rain water harvesting rules a
 		src="https://github.com/chandradeoarya/rainroof/raw/master/screenshots/rwh_save.png">
 		<br>
 <p>
-You just have to go to the portal which is under development and give your adress on Google maps. You have to point out your roof and give how many family members you are and what is your average daily usage. Based on that information portal will give you best estimated on how much water and hence money can be saved.
+You just have to go to the portal which is under development and give your address on Google maps. You have to point out your roof and give how many family members you are and what is your average daily usage. Based on that information portal will give you best estimated on how much water and hence money can be saved.
 <br>
-We are looking for support in terms of financial and social and governmental outreach for its public adoption.
+We are looking for support in terms of financial and social and governmental outreach for its public adoption. Any support in terms of connecting to potential social enterprises who can value such initiative will be very helpful.
+<br>
+Project is under development and screenshots are representation of actual portal. For any question team can be reached at chandradeoaryaarya@gmail.com
 </p>
