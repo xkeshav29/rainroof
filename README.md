@@ -74,6 +74,16 @@ In spite of almost all states in India having some rain water harvesting rules a
 		src="https://github.com/chandradeoarya/rainroof/raw/master/screenshots/map.png">
 		<br>
 <p>
+<p align="center">
+	<img src="https://github.com/chandradeoarya/rainroof/raw/master/screenshots/map_draw.png" width="550">
+</p>
+<p align="center">
+	<img
+		width="550"
+		alt="The Lounge"
+		src="https://github.com/chandradeoarya/rainroof/raw/master/screenshots/rwh_save.png">
+		<br>
+<p>
 You just have to go to the portal which is under development and give your adress on Google maps. You have to point out your roof and give how many family members you are and what is your average daily usage. Based on that information portal will give you best estimated on how much water and hence money can be saved.
 <br>
 We are looking for support in terms of financial and social and governmental outreach for its public adoption.
